@@ -205,16 +205,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-reset",
-    "started_at": 1768645714.880622,
-    "completed_at": 1768645717.878587,
-    "comments": [
-      "Unexpected files in working directory. Looks like you used the wrong reset mode.",
-      "Unexpected files in staging area. Looks like you used the wrong reset mode."
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "sensors-diff",
     "started_at": 1768645909.737323,
     "completed_at": 1768645912.631749,
